@@ -29,7 +29,7 @@ Example log file (first line is the header):
 
 ## Installation
 
-- `git clone` or download the project `monitoring` app && cd `monitoring`
+- `git clone` or download the project `monitoring` app && `cd monitoring`
 - **Optional step**. Create python env `pip install virtualenv && python3.8 -m venv env && source env/bin/activate`
 - Install requirements `python -m pip install -r requirements.txt`
 
